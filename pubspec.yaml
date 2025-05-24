@@ -37,6 +37,7 @@ dependencies:
   http: ^1.4.0
   weather: ^3.2.1
   flutter_dotenv: ^5.2.1
+  geolocator: ^14.0.0
 
 dev_dependencies:
   flutter_test:
