@@ -92,8 +92,9 @@ This app uses a weather API service. To get your API key:
 3. Add it to the `.env` file as shown in the installation steps
 
 ## 📸 Screenshots
-
-> Add your app screenshots here to showcase the UI
+<img width="1080" height="2399" alt="weather_app1" src="https://github.com/user-attachments/assets/ad6fa981-516e-4538-ac07-79acef13adbe" />
+<img width="1080" height="2399" alt="weather_app2" src="https://github.com/user-attachments/assets/821343aa-5b4c-49fe-828b-d20925a7a56d" />
+<img width="1080" height="2399" alt="weather_app3" src="https://github.com/user-attachments/assets/760e2da9-2796-487b-8f74-10329840c14c" />
 
 ## 🤝 Contributing
 
@@ -104,10 +105,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
@@ -129,3 +126,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **If you found this project helpful, please give it a ⭐!**
 
 </div>
+
