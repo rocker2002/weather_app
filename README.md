@@ -48,7 +48,7 @@ Weather App is a sleek and intuitive mobile application that provides real-time 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/[your-username]/weather_app.git
+   git clone https://github.com/rocker2002/weather_app.git
    cd weather_app
    ```
 
@@ -113,8 +113,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [@rocker2002](https://github.com/rocker2002)
+- LinkedIn: [Moizz Uddin Ahmad](https://www.linkedin.com/in/moizz-uddin-ahmad-206585202/)
 
 ## 🙏 Acknowledgments
 
